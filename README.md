@@ -1,4 +1,3 @@
-# DevOpsHobbies
 
 ## project setup
 
