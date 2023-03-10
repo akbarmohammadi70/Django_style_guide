@@ -18,6 +18,7 @@ ALLOWED_HOSTS = ['*']
 LOCAL_APPS = [
     'django_style_guide.core.apps.CoreConfig',
     'django_style_guide.common.apps.CommonConfig',
+    'django_style_guide.blog.apps.BlogConfig',
 ]
 
 THIRD_PARTY_APPS = [
